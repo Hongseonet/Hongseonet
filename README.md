@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hongseonet
-- 👀 I’m interested in A/VR system using the Unity, Android platform.
-- 🌱 I’m currently learning AI using a flow
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in MR system using the Unity, Android platform.
+- 🌱 I’m currently learning AI and OpenCV
+- 💞️ I’m looking to  ...
 - 📫 How to reach me ...
 
 <!---
